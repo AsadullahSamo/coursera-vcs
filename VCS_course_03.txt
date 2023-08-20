@@ -1,0 +1,2 @@
+git branch -B <branch_name>        --> To create and switch to a new branch
+git branch                         --> To see all branches and active branch
