@@ -1,2 +1,4 @@
-git branch -B <branch_name>        --> To create and switch to a new branch
-git branch                         --> To see all branches and active branch
+git checkout -B <branch_name>        --> To create and switch to a new branch
+git branch                           --> To see all branches and active branch
+git  checkout <branch_name>          --> To switch branch
+git pull                             --> To accept pull requests
